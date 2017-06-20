@@ -1,0 +1,18 @@
+body {
+  margin-top: 60px;
+}
+  .img_logo {
+    border-radius:50px;
+    border-width:10px;
+    border-style:solid;
+    border-color:rgba(144,164,174,0.9);
+    width:100%;
+  }
+.elon-quote {
+    margin: 20px;
+    padding:20px;
+    font-family: Courgette;
+    background-color:#ffdab9;
+    border-radius:5px;
+    -webkit-box-shadow: 2px 2px 2px 0px rgba(0,0,0,0.2);
+  }
